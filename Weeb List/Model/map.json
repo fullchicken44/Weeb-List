@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "location": "Superhero Car Show & Comic Con (San Antonio, Texas)",
+        "image_url":"https://cloudfront-us-east-1.images.arcpublishing.com/cmg/QSCIB54LV5GFPLM5JZSDZ7KCBA.jpg",
+        "description":"Formerly known as Celebrity Fan Fest, The Superhero Car Show & Comic Con will showcase legendary cars from your favorite Hollywood movies and TV, with special guest appearances from celebrities, professional wrestlers, and more",
+        "coordinates": {
+            "latitude": 35.773589655831145,
+            "longitude": -78.64145877356584
+        }
+    },
+    {
+        "id": 2,
+        "location": "Fanboy Expo Knoxville Comic Con",
+        "image_url":"https://comic-cons.xyz/wp-content/uploads/fanboy-expo-knoxville-logo.png",
+        "description":"Fanboy Expo is a Pop Culture Convention featuring Celebrities, Artists, Vendors, Cosplayers and more",
+        "coordinates": {
+            "latitude": 35.96120669032885,
+            "longitude": -83.92248260239562
+        }
+    },
+    {
+        "id": 3,
+        "location": "Chicago Comic & Entertainment Expo C2E2",
+        "image_url": "https://comic-cons.xyz/wp-content/uploads/Chicago-C2E2-ReedPop-Logo.png",
+        "description": "The Chicago Comic & Entertainment Expo, also known as C2E2, is a fan convention spanning the latest and greatest from the worlds of comics, movies, television, anime, manga, toys, and video games. Held for the first time on April 16–18, 2010 in Chicago’s McCormick Place, it has an estimated attendance of between 20,000 and 30,000 comic convention goers. You can meet your favorite comic book artists, creators and celebrities, while mingling with awesome Chicago area comic con fans.",
+        "coordinates": {
+            "latitude":41.84970026705085,
+            "longitude":-87.61556323105691
+        }
+    },
+    {
+        "id": 4,
+        "location": "Crunchyroll Expo",
+        "image_url": "https://comic-cons.xyz/wp-content/uploads/Crunchyroll-Expo.png",
+        "description": "Going on its 6th year, Crunchyroll Expo is a premier fan festival that celebrates all things anime. Featuring unique panels, exclusive merchandise, and world premieres, this year’s show will both be in-person and streaming online August 5–7, 2022, with an additional digital replay available until August 9, 2022. Be sure to sign up for the Crunchyroll Expo Newsletter to be among the first to know about exciting updates!",
+        "coordinates":{
+            "latitude": 37.32910763905035,
+            "longitude": -121.88899473119223
+        }
+    },
+    {
+        "id": 5,
+        "location": "Power-Con",
+        "image_url": "https://comic-cons.xyz/wp-content/uploads/power-con-logo.jpg",
+        "description": "POWER-CON 2022 America’s Mightiest Toy Show. Power-Con started with a strong foundation. For a decade, it grew in strength. Now, the next stage of evolution – embodying the power of friendship and family, celebrating the power of design, and showcasing the power of imagination!",
+        "coordinates":{
+            "latitude": 40.017376187750315,
+            "longitude": -83.01274483111334
+        }
+    }
+    
+]
